@@ -1,2 +1,2 @@
-# bootstrap
-Construindo páginas para internet com Bootstrap
+# Site usando bootstrap
+Meu site usando bootstrap
